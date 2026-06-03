@@ -1,4 +1,4 @@
-# 🚗 RideShare Backend API
+# RideShare Backend API
 
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -8,9 +8,9 @@
 
 A **production-quality** ride-sharing backend API inspired by Uber/Lyft, built with Spring Boot 3 and Java 21. This project demonstrates a complete ride-hailing platform with user authentication, ride management, driver tracking, fare calculation, and payment processing.
 
-## 🎯 Features
+##  Features
 
-### ✅ Implemented
+### Implemented
 - **User Authentication & Authorization**
   - JWT-based stateless authentication
   - Role-based access control (Rider, Driver, Admin)
@@ -51,7 +51,7 @@ A **production-quality** ride-sharing backend API inspired by Uber/Lyft, built w
   - Interactive API testing UI
   - Request/response schemas
 
-### 🚧 Planned Enhancements
+###  Planned Enhancements
 - WebSocket real-time driver tracking
 - Redis caching for active rides
 - Rating system for riders and drivers
@@ -59,7 +59,7 @@ A **production-quality** ride-sharing backend API inspired by Uber/Lyft, built w
 - Advanced driver-rider matching algorithm
 - Mobile app push notifications
 
-## 🏗️ Technology Stack
+##  Technology Stack
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
