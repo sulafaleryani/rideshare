@@ -1,0 +1,10 @@
+package com.rideshare.entity;
+
+public enum RideStatus {
+    REQUESTED,
+    DRIVER_ASSIGNED,
+    ACCEPTED,
+    IN_PROGRESS,
+    COMPLETED,
+    CANCELLED
+}
